@@ -6,6 +6,8 @@ class Practica3 {
 		System.out.println("1a modificació Git");
 		//Segunda modificacion GitHub
 		System.out.println("2a modificació Git");
+		//Tercera modificacion Desde Eclipse
+		System.out.println("2a modificació Git");
 	}
 
 }
