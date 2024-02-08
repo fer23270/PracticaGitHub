@@ -8,6 +8,8 @@ class Practica3 {
 		System.out.println("2a modificació Git");
 		//Tercera modificacion Desde Eclipse
 		System.out.println("2a modificació Git");
+		//Cuarta modificacion Desde master2
+		System.out.println("4a modificació Git");
 	}
 
 }
